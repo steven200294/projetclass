@@ -1,0 +1,252 @@
+
+
+html{
+    overflow-x: hidden;
+}
+
+body{
+
+background-color: rgb(255, 255, 255);
+overflow-y: hidden;
+}
+
+.let1 .headii{
+    position: relative;
+    top: 150px;
+    width: auto;
+    height: 100px;
+   text-align: center;
+    border: 2px solid black; /* Bordure noire de 4 pixels */
+}
+
+.let1 .headii p{
+    position: relative;
+  left: 30px;
+    width: auto;
+    height: 100px;
+   font-size: 2rem;
+    
+}
+
+.let1{
+width: auto;
+height: 1800px;
+
+
+}
+
+.let1 p{
+
+font-size: 10rem;
+color: black;
+position: relative;
+left: 450px;
+}
+
+
+
+.let1 .new1{
+    position: relative;
+    left: 250px;
+width: 500px;
+height: 1200px;
+background-color: antiquewhite;
+
+
+}
+
+.let1 .new1 img{
+    
+width: 500px;
+
+
+}
+
+.let1 .new1 h1{
+    position: absolute;
+    top: 420px;
+    width: 400px;
+    left: 50px;
+    font-size: 3rem;
+    }
+
+    .let1 .new1 article{
+        position: absolute;
+        width: 400px;
+        top: 750px;
+        left: 50px;
+        font-size: 1.6rem;
+        }
+
+
+        .let1 .new2 {
+            position: relative;
+            top: -1200px;
+            left: 900px;
+        width: 700px;
+        height: 500px;
+    
+        
+        
+        }   
+
+
+        .let1 .new2 p{
+         
+            font-size: 1rem;
+        
+        
+        }   
+
+
+      
+        .let1 .new2 h2{
+            position: absolute;
+         width: 700px;
+            font-size: 6rem;
+        
+        
+        }     
+
+
+
+        .let1 .new2 article{
+            position: absolute;
+            width: 400px;
+            top: 350px;
+            left: 20px;
+            font-size: 1.6rem;
+            }
+
+    .let1 .new3 img{
+        position: absolute;
+        top: 1300px;
+        left: 900px;
+        width: 800px;
+    }
+
+
+
+
+
+
+
+
+
+
+    .let12 .headii2{
+        position: relative;
+        top: 150px;
+        width: auto;
+        height: 100px;
+       text-align: center;
+        border: 2px solid black; /* Bordure noire de 4 pixels */
+    }
+    
+    .let12 .headii2 p{
+        position: relative;
+      left: 30px;
+        width: auto;
+        height: 100px;
+       font-size: 2rem;
+        
+    }
+    
+    .let12{
+    width: auto;
+    height: 1800px;
+    
+    
+    }
+    
+    .let12 p{
+    
+    font-size: 10rem;
+    color: black;
+    position: relative;
+    left: 450px;
+    }
+    
+    
+    
+    .let12 .new12{
+        position: relative;
+        left: 250px;
+    width: 500px;
+    height: 1200px;
+    background-color: antiquewhite;
+    
+    
+    }
+    
+    .let12 .new12 img{
+        
+    width: 500px;
+    
+    
+    }
+    
+    .let12 .new12 h3{
+        position: absolute;
+        top: 420px;
+        width: 400px;
+        left: 50px;
+        font-size: 3rem;
+        }
+    
+        .let12 .new12 article{
+            position: absolute;
+            width: 400px;
+            top: 750px;
+            left: 50px;
+            font-size: 1.6rem;
+            }
+    
+    
+            .let12 .new22 {
+                position: relative;
+                top: -1200px;
+                left: 900px;
+            width: 700px;
+            height: 500px;
+        
+            
+            
+            }   
+    
+    
+            .let12 .new22 p{
+             
+                font-size: 1rem;
+            
+            
+            }   
+    
+    
+          
+            .let12 .new22 h4{
+                position: absolute;
+             width: 700px;
+                font-size: 6rem;
+            
+            
+            }     
+    
+    
+    
+            .let12 .new22 article{
+                position: absolute;
+                width: 400px;
+                top: 480px;
+                left: 20px;
+                font-size: 1.6rem;
+                }
+    
+        .let12 .new32 img{
+            position: absolute;
+            top: 1300px;
+            left: 900px;
+            width: 800px;
+        }
+
+
